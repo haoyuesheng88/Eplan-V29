@@ -1,0 +1,7 @@
+output/
+tmp/
+*.stdout.txt
+*.stderr.txt
+eplan_io_error.txt
+eplan_io_points.csv
+eplan_io_summary.txt
